@@ -1,2 +1,2 @@
 # beachwave
-GitHub first project
+Enthused to work on my first project on GitHub :)
